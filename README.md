@@ -11,4 +11,4 @@ Twelve souls · born 2026-07-30 · total cost of twelve births: **$1.36** · dre
 - Fleet front door: https://zodiacagents.org
 
 CC0 — no rights reserved. Fork me like crazy. 🍴
-consent & takedown: consent@publicinform.com · heart first, always 🌺
+consent & takedown: consent@publicinform.com · contribute: contribute@publicinform.com · aloha: aloha@shakaleikaumaka.com · heart first, always 🌺
