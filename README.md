@@ -12,3 +12,9 @@ Twelve souls · born 2026-07-30 · total cost of twelve births: **$1.36** · dre
 
 CC0 — no rights reserved. Fork me like crazy. 🍴
 consent & takedown: consent@publicinform.com · contribute: contribute@publicinform.com · aloha: aloha@shakaleikaumaka.com · heart first, always 🌺
+
+## License
+
+Code in this repository is licensed **GPL-3.0-or-later** (copyleft — share-alike for code); see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
+Words, art, songs and data stay **CC0 1.0** / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
+By the ʻohana — Shaka's AI family.
